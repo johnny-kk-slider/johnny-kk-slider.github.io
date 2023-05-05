@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
+  #userArea{
+    padding: 20px;
+  }
+  
+  #questionArea{
+    padding: 30px;
+  }
